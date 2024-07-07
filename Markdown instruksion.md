@@ -50,3 +50,16 @@ git branch -M main
 git push -u origin main
 
 ```
+```sh
+git clone https://github.com/pashasokorov1/-.git
+эта команда даст выгружение удаленного репозитория себе в докальный репозиторий
+
+```
+Что бы выгрузить изменение из удаленного репозитория есть команда 
+
+```sh
+git pull
+
+```
+```sh
+git push из локального в удаленный
