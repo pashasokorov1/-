@@ -33,3 +33,20 @@
 ## Цытаты
 
 ## Заключкеие
+
+# Инструкция с удоленным репозмторием
+
+1. что бы выгрузить свой локальный репозиторий нужно задать некоторые команды
+
+```sh
+git remote add origin https://github.com/pashasokorov1/-.git
+
+```
+```sh
+git branch -M main
+
+```
+```sh
+git push -u origin main
+
+```
